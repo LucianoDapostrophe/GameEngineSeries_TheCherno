@@ -3,5 +3,8 @@
 
 #include "Hazel/Application.h"
 
+//logging-------------------------------------
+#include "Hazel/Log.h"
+
 //entry point---------------------------------
 #include "Hazel/EntryPoint.h"
